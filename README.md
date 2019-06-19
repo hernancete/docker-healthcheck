@@ -26,7 +26,7 @@ CONTAINER ID        IMAGE                  COMMAND               CREATED        
 
 Note the `healthy` in the STATUS column.
 
-## Make the container become ill.
+## Make the container becomes ill.
 
 Execute the following command
 
