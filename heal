@@ -1,0 +1,4 @@
+#!/bin/sh
+
+illnessfile=/tmp/illness
+rm -f $illnessfile
