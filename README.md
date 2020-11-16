@@ -1,4 +1,4 @@
-# Docker `HEALTHCHECK` instruction
+# Docker `HEALTHCHECK` instruction.
 
 Testing the `HEALTHCHECK` instruction. This instruction can be used to check if a service is working and responding properly, even when at a docker level (i.e. `docker ps`) it seems to be OK.
 
